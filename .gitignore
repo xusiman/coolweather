@@ -55,5 +55,5 @@ freeline/
 freeline_project_description.json
 
 # Build configuration file
-
+gradle.properties
 
